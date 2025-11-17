@@ -4,7 +4,7 @@ body {
 h1 {
     color: rgb(255, 208, 0);
 }
-nav a{
+a{
     background-color: aqua;
     color: white;
     padding: 10px;
@@ -24,4 +24,21 @@ h2 {
     border-radius:  20px;
     border: 10px solid blanchedalmond;
     padding: 10px;   
+}
+.Popular{
+    background-color: white;
+    border: white solid;
+
+}
+.Vietnam{
+    background-color: coral;
+    border: 10px solid blanchedalmond;
+}
+.Bluejava{
+    background-color: azure;
+    border: 10px solid aquamarine;
+}
+.expensive{
+    background-color: cornsilk;
+    border: 10px solid blanchedalmond;
 }
